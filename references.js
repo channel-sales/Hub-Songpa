@@ -1,1 +1,0 @@
-window.FURSYS_REFERENCES=[];
